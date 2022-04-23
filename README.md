@@ -24,4 +24,4 @@
 
 ## Contact me
 
-📫 [Send me an email](mailto:claves_regency0y@icloud.com)t
+📫 [Send me an email](mailto:claves_regency0y@icloud.com)
