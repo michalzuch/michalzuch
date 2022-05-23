@@ -16,9 +16,9 @@
 
 ## GitHub Stats
 
-![Michał GitHub stats](https://github-readme-stats.vercel.app/api?username=michalzuch&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
+![Michał GitHub stats](https://github-readme-stats.vercel.app/api?username=michalzuch&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=default&bg_color=00000000&text_color=afafaf&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalzuch&langs_count=10&theme=github_dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalzuch&langs_count=10&theme=default&bg_color=00000000&text_color=afafaf&layout=compact)
 
 <br>
 
