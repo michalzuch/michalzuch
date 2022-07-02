@@ -6,9 +6,9 @@
 
 ## About me
 
+- 💼 Summer Trainee at Nokia
 - 👨‍🎓 Second year CS student at Jagiellonian University
 - ☕️ Coffee lover
-- 💼 Looking for internship
 - 🌱 Currently learning Swift
 - 🎹 Amateur Music Producer
 
