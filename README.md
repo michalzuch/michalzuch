@@ -1,16 +1,16 @@
 <h1 align = center> 👋 Hi! I'm Michał
 
-<h3 align = center> 🎓 Computer Science Student </h3>
-
+<br>
+<br>
 <br>
 
 ## About me
 
 - 💼 Working Student at Nokia
-- 👨‍🎓 Third year CS student at Jagiellonian University
+- 👨‍🎓 Master's student in Computer Science at Jagiellonian University
+- 🌱 Learning Swift
 - ☕️ Coffee lover
-- 🌱 Currently learning Swift
-- 🎹 Amateur Music Producer
+- 🎧 Audio Producer
 
 <br>
 
