@@ -1,23 +1,14 @@
-<h1 align = center> 👋 Hi! I'm Michał
-
-<br>
-<br>
-<br>
+# 👋 Hi! I'm Michał
 
 ## About me
 
-- 💼 Working Student at Nokia
+- 💼 Software Engineer at Nokia
 - 👨‍🎓 Master's student in Computer Science at Jagiellonian University
-- ☕️ Coffee lover
-- 🎧 Audio Producer
-
-<br>
+- 📷 Photographer
 
 ## Contact me
 
 📫 [Send me an email](mailto:claves_regency0y@icloud.com)
-
-<br>
 
 ## GitHub Stats
 
